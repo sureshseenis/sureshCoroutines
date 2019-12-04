@@ -7,3 +7,15 @@ Act on multiple asynchronous inputs
 Let funtion descriptions
 Scrool object
 object.let{it.class}
+
+//Also and apply difference
+
+data class Person(var n: String, var t : String)
+var person = Person("Anupam", "Kotlin")
+
+person.apply { t = "Swift" }
+println(person)
+
+person.also { it.t = "Kotlin" }
+println(person)
+
