@@ -3,3 +3,7 @@ Get results from a potentially infinite list - BuildSequence
 Get a promise for a future result	- Async/Await
 Work with streams of data	- Channels and Pipelines
 Act on multiple asynchronous inputs	
+
+Let funtion descriptions
+Scrool object
+object.let{it.class}
