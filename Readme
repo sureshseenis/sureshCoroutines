@@ -28,3 +28,4 @@ Behavioral Design Patterns give us ways to communicate between objects and class
 Creational patterns: how you create objects.
 Structural patterns: how you compose objects.
 Behavioral patterns: how you coordinate object interactions.
+https://www.raywenderlich.com/470-common-design-patterns-for-android-with-kotlin
