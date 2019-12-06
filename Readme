@@ -24,3 +24,7 @@ Design patterns can be divided into the three sections:
 Creational Design Patterns deliver solutions for creating classes, objects (Singleton, Factory, Builder, etc.)
 Structural Design Patterns are about arrangement of classes and objects (e.g. Composite, Facade, Adapter)
 Behavioral Design Patterns give us ways to communicate between objects and classes (Command, Observer, Strategy, etc.)
+
+Creational patterns: how you create objects.
+Structural patterns: how you compose objects.
+Behavioral patterns: how you coordinate object interactions.
